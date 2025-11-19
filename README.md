@@ -106,7 +106,7 @@ No. The resource ships with up-to-date oxmysql usage and is actively maintained 
 
 - Want a guided demo? Reach out to AJTheDev on Discord after purchase.
 - Need custom bench art, skill checks, or framework bridges? Enterprise support packages are available.
-- Looking to bundle AJD Crafting with AJD Scavenge, AJD StreetSelling, or AJD Tycoon? Ask about the full framework deals on the store page.
+- Looking to bundle AJD Crafting with AJD Scavenge, AJD StreetSelling, and AJD Crafting? Ask about the full framework deals on the store page.
 
 ---
 
