@@ -118,3 +118,6 @@ FiveM crafting system, QBCore crafting script, AJD Crafting, qb-target crafting 
 
 > ⚠️ This repository is intentionally code-free. It exists solely for SEO/indexing and to direct you to the official AJD Crafting release on Tebex. Purchase via the button at the top to access the full source.
 
+I fix the bugs other devs gaslight you about.
+AI tools, FiveM systems, automation pipelines.
+Build it, break it, resurrect it: 👉 https://AJThe.Dev
